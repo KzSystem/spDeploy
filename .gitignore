@@ -1,0 +1,16 @@
+.bash*
+.mysql*
+.githook.php
+/.*
+*.log
+*.db
+_*
+*_
+
+.ssh/*
+logs/*
+session/*
+templates_c/*
+
+!.gitignore
+!.gitkeep
